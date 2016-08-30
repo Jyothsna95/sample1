@@ -1,7 +1,6 @@
 public class home
   {
-  public static void main(String args[]) throws IOException
-    {
+  public static void main(String args[]){
     System.out.println("Hello World!");
     }
   }
